@@ -1,0 +1,2 @@
+use lyxt;
+show tables;

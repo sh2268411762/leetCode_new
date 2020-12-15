@@ -1,0 +1,1 @@
+select name, age from user where age>20;

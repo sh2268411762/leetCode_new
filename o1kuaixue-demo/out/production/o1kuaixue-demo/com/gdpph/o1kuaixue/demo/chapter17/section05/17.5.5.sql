@@ -1,0 +1,1 @@
+create table user_tmp5(id int unique, name varchar(100));
