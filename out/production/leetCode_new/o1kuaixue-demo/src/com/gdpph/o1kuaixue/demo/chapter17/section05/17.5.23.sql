@@ -1,0 +1,1 @@
+drop table user_tmp4, user_tmp5, user_tmp6;

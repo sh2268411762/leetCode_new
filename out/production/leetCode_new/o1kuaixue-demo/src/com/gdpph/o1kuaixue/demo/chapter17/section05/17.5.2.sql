@@ -1,0 +1,1 @@
+constraint p_c_id foreign key(c_id) references country(id)

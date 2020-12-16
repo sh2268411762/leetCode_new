@@ -1,0 +1,1 @@
+create table user_tmp4(id int, name varchar(20) not null);

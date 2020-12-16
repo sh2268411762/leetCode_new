@@ -1,0 +1,1 @@
+alter table user_tmp1 rename user_tmp_1;

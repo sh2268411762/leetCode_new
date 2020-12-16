@@ -1,0 +1,1 @@
+alter table user_tmp1 add column col3 int after col1;

@@ -1,0 +1,1 @@
+alter table user_tmp1 drop column col3;
