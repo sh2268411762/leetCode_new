@@ -1,1 +1,0 @@
-alter table user_tmp1 add column col2 int first;

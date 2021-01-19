@@ -1,1 +1,0 @@
-show character set;

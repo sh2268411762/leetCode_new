@@ -1,1 +1,0 @@
-alter table user_tmp1 modify name varchar(200);

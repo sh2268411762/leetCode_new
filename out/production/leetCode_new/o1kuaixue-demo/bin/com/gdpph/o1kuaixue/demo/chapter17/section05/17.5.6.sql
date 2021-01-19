@@ -1,1 +1,0 @@
-create table user_tmp9(id int, name varchar(100) default "new_user");

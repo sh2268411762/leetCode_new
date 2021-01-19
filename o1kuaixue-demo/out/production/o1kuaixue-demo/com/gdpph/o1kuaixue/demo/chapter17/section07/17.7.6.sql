@@ -1,1 +1,0 @@
-create database lyxt default charset utf8 collate utf8_romanian_ci;

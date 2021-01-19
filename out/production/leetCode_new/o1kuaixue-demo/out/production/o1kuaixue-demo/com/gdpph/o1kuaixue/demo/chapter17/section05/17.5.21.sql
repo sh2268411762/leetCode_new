@@ -1,1 +1,0 @@
-alter table user_tmp1 modify col2 int after col1;
