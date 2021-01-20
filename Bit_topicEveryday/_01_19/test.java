@@ -7,7 +7,6 @@ public class test {
         }
         return 3 * foo(x - 6, y / 2);
     }
-
     public static void main(String[] args) {
         System.out.println(foo(20, 13));
     }
