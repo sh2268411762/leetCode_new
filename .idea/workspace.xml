@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c6de123-6d91-40f8-99ac-fa411c98eed4" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/lenovo.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bit_topicEveryday/_01_19/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bit_topicEveryday/_01_19/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/dictionaries/lenovo.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/单链表/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/_单链表/LinkedListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/单链表/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/_单链表/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/星/交通工具类/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/_星/交通工具类/StringDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/星/交通工具类/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/_星/交通工具类/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/星/交通工具类/theTrafficTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/_星/交通工具类/theTrafficTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_22/Main.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1nINW2wauvu4MK4WJOb1HBKJlkE" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -47,7 +35,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="应用程序.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -76,15 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,6 +93,13 @@
       <updated>1611073673905</updated>
       <workItem from="1611073678334" duration="32000" />
       <workItem from="1611147657782" duration="1445000" />
+      <workItem from="1611221438705" duration="112000" />
+      <workItem from="1611221571825" duration="24000" />
+      <workItem from="1611238492691" duration="318000" />
+      <workItem from="1611240202676" duration="608000" />
+      <workItem from="1611282021479" duration="3318000" />
+      <workItem from="1611291802411" duration="10000" />
+      <workItem from="1611324116226" duration="1186000" />
     </task>
     <servers />
   </component>
@@ -122,6 +116,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
