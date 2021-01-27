@@ -20,6 +20,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_25/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_22/Main.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1nINW2wauvu4MK4WJOb1HBKJlkE" />
@@ -65,13 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,6 +103,11 @@
       <workItem from="1611282021479" duration="3318000" />
       <workItem from="1611291802411" duration="10000" />
       <workItem from="1611324116226" duration="1186000" />
+      <workItem from="1611665638722" duration="624000" />
+      <workItem from="1611666610430" duration="3299000" />
+      <workItem from="1611751236378" duration="1161000" />
+      <workItem from="1611752457875" duration="438000" />
+      <workItem from="1611761713631" duration="457000" />
     </task>
     <servers />
   </component>
