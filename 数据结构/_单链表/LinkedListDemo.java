@@ -1,32 +1,31 @@
-package _单链表;
-
-
+package 数据结构._单链表;
 
 class Node
 {
-    public int data;
-    public Node next;   //默认为空
+    public int data;    //数据域
+    public Node next;   //地址域  --> 默认为空
 
     public Node(int _data)
     {
         this.data = _data;
-    }
+    }   //结点
 }
+
+//枳洛淮南
+//单向不带头非循环链表
 public class LinkedListDemo
 {
     //单链表的最后一个节点的next域为null
-    public Node head;   //头结点
-
-
-
-
+    public Node head;
 
 
     //头插
     public void addFirst(int _value)
     {
         Node node = new Node(_value);
-        if (this.head != null) {
+        //本来没有结点,即空链表
+        if (this.head != null)
+        {
             node.next = this.head;
         }
         this.head = node;
@@ -36,14 +35,13 @@ public class LinkedListDemo
     public void addLast(int _value)
     {
         Node node = new Node(_value);
-        if(this.head.next == null) //第一次插入
+        if (this.head.next == null) //第一次插入
         {
             this.head = node;
-        }
-        else//不是第一次插入
+        } else//不是第一次插入
         {
             Node cur = this.head;
-            while(cur.next != null)
+            while (cur.next != null)
             {
                 cur = cur.next;
             }
@@ -56,10 +54,10 @@ public class LinkedListDemo
     public int getLength()
     {
         int length = 0;
-        if(this.head.next != null)
+        if (this.head.next != null)
         {
             Node cur = this.head;
-            while(cur != null)
+            while (cur != null)
             {
                 length++;
                 cur = cur.next;
@@ -71,7 +69,7 @@ public class LinkedListDemo
     //检查下标合法性
     public boolean checkIndex(int index)
     {
-        if(index < 0 || index > this.getLength())
+        if (index < 0 || index > this.getLength())
         {
             System.out.println("下标不合法！");
             return false;
@@ -81,24 +79,26 @@ public class LinkedListDemo
 
 
     //按下标插入
-    public void addIndex(int index,int _value)
+    public void addIndex(int index, int _value)
     {
-        if(!this.checkIndex(index))
+        if (!this.checkIndex(index))
         {
             return;
         }
 
-        int useSize = this.getLength();
-        if(index == 0)
+        int useSize = this.getLength(); //可用空间
+        if (index == 0) //插入位置我第一项，直接头插
         {
             addFirst(_value);
             return;
-        }
-        if(index == useSize)
+        }               //插入位置为最后一项，尾插
+        if (index == useSize)
         {
             addLast(_value);
             return;
         }
+
+        //寻找前驱
         Node cur = searchPrevIndex(index);
         Node node = new Node(_value);
         node.next = cur.next;
@@ -110,7 +110,7 @@ public class LinkedListDemo
     {
         Node cur = this.head;
         int count = 0;
-        while(count < index - 1)
+        while (count < index - 1)
         {
             cur = cur.next;
             count++;
@@ -124,7 +124,7 @@ public class LinkedListDemo
     public void display()
     {
         Node cur = this.head;
-        while(cur != null)
+        while (cur != null)
         {
             System.out.print(cur.data + " -> ");
             cur = cur.next;
@@ -135,21 +135,21 @@ public class LinkedListDemo
     //按关键字查找
     public Node searchPrevKey(int key)
     {
-        if(head.data == key)
+        if (head.data == key)
         {
             return head;
         }
         Node cur = this.head.next;
-        while(cur != null && cur.next != null)
+        while (cur != null && cur.next != null)
         {
-            if(cur.data == key)
+            if (cur.data == key)
             {
                 return cur;
             }
             cur = cur.next;
         }
         assert cur != null;
-        if(cur.data == key)
+        if (cur.data == key)
         {
             return cur;
         }
@@ -161,64 +161,61 @@ public class LinkedListDemo
     {
         return this.searchPrevKey(key) != null;
     }
+
     //删除所有值为key的节点
     public void removeAllKey(int key)
     {
-        if(this.head == null)
+        if (this.head == null)
         {
             System.out.println("单链表没有元素");
             return;
         }
-        if(this.head.data == key)
-        {
-            this.remove(key);
-            return;
-        }
+
         Node cur = this.head;
-        while(cur.next != null)
+        while (cur.next != null)
         {
-            if(this.contains(key))
+            if (this.contains(key))
             {
                 this.remove(key);
             }
             cur = cur.next;
         }
     }
+
     //删除第一次出现的关键字为key的结点
     public void remove(int key)
     {
-        if(this.head == null)
+        if (this.head == null)
         {
             System.out.println("单链表没有元素");
             return;
         }
 
-        if(this.head.data == key)   //头内data为要删除的，头后移
+        if (this.head.data == key)   //头内data为要删除的，头后移
         {
             head = head.next;
             return;
         }
 
         //找到节点
-        if(this.contains(key))
+        if (this.contains(key))
         {
             Node del = this.head.next;
             Node cur = this.head;
-            while(del.next != null)
+            while (del.next != null)
             {
-                if(del.data == key)
+                if (del.data == key)
                 {
                     cur.next = del.next;
                 }
                 del = del.next;
                 cur = cur.next;
             }
-            if(del.data == key)
+            if (del.data == key)    //删除最后一个结点
             {
                 cur.next = null;
             }
-        }
-        else
+        } else
         {
             System.out.println("单链表没有" + key + "元素！");
         }
@@ -248,15 +245,14 @@ public class LinkedListDemo
 //        this.head = prev;
 
 
-
         //尾插法
         Node cur = this.head;
         Node prev = null;
 
-        while(cur != null)
+        while (cur != null)
         {
             Node temp = cur.next;
-            if(temp == null)
+            if (temp == null)
             {
                 this.head = cur;
             }
