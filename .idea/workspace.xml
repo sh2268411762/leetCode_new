@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c6de123-6d91-40f8-99ac-fa411c98eed4" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/Java58/bookMain/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构_OJ/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构_OJ/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构_OJ/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构_OJ/Test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,13 +54,13 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="应用程序.TestDemo2">
-    <configuration name="Count2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bit_topicEveryday._02_01.Count2" />
+  <component name="RunManager" selected="应用程序.ComparebleDemo">
+    <configuration name="ComparebleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.sjjg.ComparebleDemo" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bit_topicEveryday._02_01.*" />
+          <option name="PATTERN" value="Java58.sjjg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数据结构._单链表.TestDemo" />
+    <configuration name="EqualsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.sjjg.EqualsDemo" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数据结构._单链表.*" />
+          <option name="PATTERN" value="Java58.sjjg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.TestDemo1" />
+    <configuration name="ListReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.sjjg.ListReverse" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.*" />
+          <option name="PATTERN" value="Java58.sjjg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.TestDemo2" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.string.Test2" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.*" />
+          <option name="PATTERN" value="Java58.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sequenceList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数据结构.线性表.sequenceList" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.string.Test3" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数据结构.线性表.*" />
+          <option name="PATTERN" value="Java58.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,24 +120,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.TestDemo2" />
-        <item itemvalue="应用程序.TestDemo1" />
-        <item itemvalue="应用程序.TestDemo (1)" />
-        <item itemvalue="应用程序.Count2" />
-        <item itemvalue="应用程序.sequenceList (1)" />
+        <item itemvalue="应用程序.ComparebleDemo" />
+        <item itemvalue="应用程序.EqualsDemo" />
+        <item itemvalue="应用程序.ListReverse" />
+        <item itemvalue="应用程序.Test3" />
+        <item itemvalue="应用程序.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +176,15 @@
       <workItem from="1612194506293" duration="1041000" />
       <workItem from="1612234393758" duration="9723000" />
       <workItem from="1612266924883" duration="2422000" />
+      <workItem from="1612320049254" duration="7801000" />
+      <workItem from="1613794861925" duration="2033000" />
+      <workItem from="1613796952938" duration="4961000" />
+      <workItem from="1614250753309" duration="6539000" />
+      <workItem from="1614646456513" duration="374000" />
+      <workItem from="1614646871467" duration="569000" />
+      <workItem from="1614688972238" duration="4547000" />
+      <workItem from="1614729688155" duration="4328000" />
+      <workItem from="1614773941042" duration="4997000" />
     </task>
     <servers />
   </component>
