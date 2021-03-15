@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c6de123-6d91-40f8-99ac-fa411c98eed4" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/Java58/bookMain/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构_OJ/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构_OJ/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构_OJ/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构_OJ/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_19/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_19/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/数据结构_OJ/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/数据结构_OJ/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/数据结构_OJ/Test7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构_OJ/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构_OJ/Test7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -33,10 +37,11 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_22/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_25/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/数据结构/_单链表/LinkedListDemo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_27/Main1.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_22/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Java58/Tree/TreeTraversal.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1nINW2wauvu4MK4WJOb1HBKJlkE" />
   <component name="ProjectLevelVcsManager">
@@ -47,14 +52,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlserver" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java/MyWebProject" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="应用程序.ComparebleDemo">
+  <component name="RunManager" selected="应用程序.TreeTraversal">
     <configuration name="ComparebleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java58.sjjg.ComparebleDemo" />
       <module name="leetCode_new" />
@@ -94,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.string.Test2" />
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数据结构_OJ.Test8" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.string.*" />
+          <option name="PATTERN" value="数据结构_OJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,39 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.string.Test3" />
+    <configuration name="TreeTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.Tree.TreeTraversal" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.string.*" />
+          <option name="PATTERN" value="Java58.Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.TreeTraversal" />
+        <item itemvalue="应用程序.Test8" />
         <item itemvalue="应用程序.ComparebleDemo" />
         <item itemvalue="应用程序.EqualsDemo" />
         <item itemvalue="应用程序.ListReverse" />
-        <item itemvalue="应用程序.Test3" />
-        <item itemvalue="应用程序.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +179,25 @@
       <workItem from="1614688972238" duration="4547000" />
       <workItem from="1614729688155" duration="4328000" />
       <workItem from="1614773941042" duration="4997000" />
+      <workItem from="1615081414235" duration="6225000" />
+      <workItem from="1615198252060" duration="362000" />
+      <workItem from="1615198638408" duration="313000" />
+      <workItem from="1615200309671" duration="77000" />
+      <workItem from="1615200410822" duration="17000" />
+      <workItem from="1615216065448" duration="6251000" />
+      <workItem from="1615247895778" duration="1818000" />
+      <workItem from="1615525769929" duration="1172000" />
+      <workItem from="1615527218800" duration="1173000" />
+      <workItem from="1615612384320" duration="1472000" />
+      <workItem from="1615620700898" duration="182000" />
+      <workItem from="1615638807855" duration="10885000" />
+      <workItem from="1615655849449" duration="2964000" />
+      <workItem from="1615686328472" duration="4236000" />
+      <workItem from="1615708044124" duration="3590000" />
+      <workItem from="1615720586278" duration="1637000" />
+      <workItem from="1615773122550" duration="288000" />
+      <workItem from="1615773435533" duration="106000" />
+      <workItem from="1615778399017" duration="125000" />
     </task>
     <servers />
   </component>
