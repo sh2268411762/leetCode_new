@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3c6de123-6d91-40f8-99ac-fa411c98eed4" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_19/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_19/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/数据结构_OJ/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/数据结构_OJ/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/数据结构_OJ/Test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构_OJ/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构_OJ/Test7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +55,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java/MyWebProject" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="应用程序.TreeTraversal">
-    <configuration name="ComparebleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.sjjg.ComparebleDemo" />
+  <component name="RunManager" selected="应用程序.MyPriorityQueue">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数据结构._单链表.Demo" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.sjjg.*" />
+          <option name="PATTERN" value="数据结构._单链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.sjjg.EqualsDemo" />
+    <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.Heap.Heap" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.sjjg.*" />
+          <option name="PATTERN" value="Java58.Heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.sjjg.ListReverse" />
+    <configuration name="MyPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.Heap.MyPriorityQueue" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.sjjg.*" />
+          <option name="PATTERN" value="Java58.Heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.MyPriorityQueue" />
+        <item itemvalue="应用程序.Heap" />
+        <item itemvalue="应用程序.Demo" />
         <item itemvalue="应用程序.TreeTraversal" />
         <item itemvalue="应用程序.Test8" />
-        <item itemvalue="应用程序.ComparebleDemo" />
-        <item itemvalue="应用程序.EqualsDemo" />
-        <item itemvalue="应用程序.ListReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +192,8 @@
       <workItem from="1615773122550" duration="288000" />
       <workItem from="1615773435533" duration="106000" />
       <workItem from="1615778399017" duration="125000" />
+      <workItem from="1615964834463" duration="2693000" />
+      <workItem from="1615967598873" duration="5323000" />
     </task>
     <servers />
   </component>
