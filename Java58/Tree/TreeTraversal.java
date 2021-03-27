@@ -8,14 +8,32 @@ import java.util.Queue;
 //
 public class TreeTraversal
 {
+    static int temp = 0;    //修改
+    void 逆置()
+    {}
+
+    static void change(TreeNode root)   //前序遍历修改
+    {
+        if (root != null)
+        {
+            temp++;
+            if (temp == 5)
+            {
+                root.val = 'Z';
+            }
+            change(root.left);
+            change(root.right);
+        }
+    }
+
+
     // 前序遍历
     static void preOrderTraversal(TreeNode root)
     {
         if (root != null)
         {
             //1、首先处理根节点
-            System.out.printf("%c", root.val);
-            size++;
+            System.out.printf("%c ", root.val);
             //2、按照前序处理方式，处理该节点的左子树
             preOrderTraversal(root.left);
             //3、按照前序处理方式，处理该节点的右子树
@@ -31,7 +49,7 @@ public class TreeTraversal
             //中序遍历左子树
             inOrderTraversal(root.left);
             //根节点
-            System.out.printf("%c", root.val);
+            System.out.printf("%c ", root.val);
             //中序遍历右子树
             inOrderTraversal(root.right);
         }
@@ -47,7 +65,7 @@ public class TreeTraversal
             //后序遍历右子树
             postOrderTraversal(root.right);
             //根节点
-            System.out.printf("%c", root.val);
+            System.out.printf("%c ", root.val);
         }
     }
 
@@ -73,21 +91,19 @@ public class TreeTraversal
     }
 
     // 子问题思路-求结点个数
+    // 汇集
     static int getSize2(TreeNode root)
     {
         if (root != null)
         {
-            int sum = 1;
-            sum += getSize2(root.left) + getSize2(root.right);
-            return sum;
+            //左子树 + 右子树 + 根结点的个数（1）
+            return getSize2(root.left) + getSize2(root.right) + 1;
         }
         return 0;
     }
 
 
-    // 遍历思路-求叶子结点个数
-    static int leafSize = 0;
-
+    // 子问题思路-求叶子结点个数
     static int getLeafSize1(TreeNode root)
     {
         int sum = 0;
@@ -97,10 +113,19 @@ public class TreeTraversal
             {
                 sum++;
             }
-            sum += getLeafSize1(root.left) + getLeafSize1(root.right);
-            return sum;
+            return sum + getLeafSize1(root.left) + getLeafSize1(root.right);
         }
         return 0;
+    }
+
+    // 遍历思路-求叶子结点个数
+    static int leafSize = 0;
+
+    static int getLeafSize2(TreeNode root)
+    {
+        leafSize = 0;
+        preOrderTraversal2(root);
+        return leafSize;
     }
 
     static void preOrderTraversal2(TreeNode root)   //前序查看叶子结点数
@@ -116,13 +141,6 @@ public class TreeTraversal
         }
     }
 
-    // 子问题思路-求叶子结点个数
-    static int getLeafSize2(TreeNode root)
-    {
-        leafSize = 0;
-        preOrderTraversal2(root);
-        return leafSize;
-    }
 
     // 子问题思路-求第 k 层结点个数
     static int getKLevelSize(TreeNode root, int k)
@@ -232,7 +250,7 @@ public class TreeTraversal
         {
             TreeNode node = queue.remove();
 
-            System.out.printf("%c", node.val);
+            System.out.printf("%c ", node.val);
             if (node.left != null)
             {
                 queue.add(node.left);
@@ -250,10 +268,10 @@ public class TreeTraversal
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
 
-        while(true)
+        while (true)
         {
             TreeNode node = queue.remove();
-            if(node == null)
+            if (node == null)
             {
                 break;
             }
@@ -262,14 +280,13 @@ public class TreeTraversal
             queue.add(node.right);
         }
 
-        while(!queue.isEmpty())
+        while (!queue.isEmpty())
         {
             TreeNode node = queue.remove();
-            if(node == null)
+            if (node == null)
             {
 
-            }
-            else
+            } else
             {
                 return false;
             }
@@ -290,22 +307,33 @@ public class TreeTraversal
         TreeNode h = new TreeNode('H');
         TreeNode i = new TreeNode('I');
         TreeNode j = new TreeNode('J');
+        TreeNode k = new TreeNode('K');
+        TreeNode l = new TreeNode('L');
+        TreeNode m = new TreeNode('M');
+        TreeNode n = new TreeNode('N');
 
         //连接
         a.left = b;
         a.right = c;
 
         b.left = d;
+        b.right = e;
 
-        c.left = e;
-        c.right = f;
+        c.left = f;
+        c.right = g;
 
-        d.right = g;
+        d.right = h;
 
-        f.left = h;
-        f.right = i;
+        f.left = i;
+        f.right = j;
 
-        g.left = j;
+        g.right = k;
+
+        h.right = l;
+
+        j.left = m;
+
+        m.left = n;
 
         System.out.printf("%s", "前序遍历：");
         preOrderTraversal(a);
@@ -329,14 +357,31 @@ public class TreeTraversal
         System.out.println("第4层结点数：" + getKLevelSize(a, 4));
         System.out.println("第5层结点数：" + getKLevelSize(a, 5));
         System.out.println("第6层结点数：" + getKLevelSize(a, 6));
+        System.out.println("第7层结点数：" + getKLevelSize(a, 7));
         System.out.println("二叉树的高度：" + getHeight(a));
         System.out.println("是否有 A：" + find(a, 'A'));
         System.out.println("是否有 B：" + find(a, 'B'));
         System.out.println("是否有 B：" + find(a, 'I'));
         System.out.println("是否有 Z：" + find(a, 'Z'));
 
+
         System.out.printf("层序遍历：");
         levelOrderTraversal(a);
+        System.out.println();
+
+
+        change(a);
+        System.out.println("修改：");
+        System.out.printf("%s", "前序遍历：");
+        preOrderTraversal(a);
+        System.out.println();
+
+        System.out.printf("%s", "中序遍历：");
+        inOrderTraversal(a);
+        System.out.println();
+
+        System.out.printf("%s", "后序遍历：");
+        postOrderTraversal(a);
         System.out.println();
     }
 }

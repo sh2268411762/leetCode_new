@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3c6de123-6d91-40f8-99ac-fa411c98eed4" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java58/Tree/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java58/Tree/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java58/Tree/TreeTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java58/Tree/TreeTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Tree/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Tree/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Tree/TreeTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Tree/TreeTraversal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +35,12 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_22/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_25/Main.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/数据结构/_单链表/LinkedListDemo.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_27/Main1.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Java58/Tree/TreeTraversal.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_25/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_27/Main1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/数据结构_OJ/Test26.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/数据结构/_单链表/LinkedListDemo.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Bit_topicEveryday/_01_22/Main.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1nINW2wauvu4MK4WJOb1HBKJlkE" />
   <component name="ProjectLevelVcsManager">
@@ -52,62 +57,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java/MyWebProject" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java/NiuKe" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
   </component>
-  <component name="RunManager" selected="应用程序.MyPriorityQueue">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数据结构._单链表.Demo" />
-      <module name="leetCode_new" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数据结构._单链表.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.Heap.Heap" />
-      <module name="leetCode_new" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java58.Heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyPriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.Heap.MyPriorityQueue" />
-      <module name="leetCode_new" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java58.Heap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数据结构_OJ.Test8" />
-      <module name="leetCode_new" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数据结构_OJ.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.TreeTraversal">
     <configuration name="TreeTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java58.Tree.TreeTraversal" />
       <module name="leetCode_new" />
@@ -121,17 +74,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.排序.bubbleSort" />
+      <module name="leetCode_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java58.排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.排序.heapSort" />
+      <module name="leetCode_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java58.排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.排序.selectSort" />
+      <module name="leetCode_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java58.排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.排序.shellSort" />
+      <module name="leetCode_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java58.排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.MyPriorityQueue" />
-        <item itemvalue="应用程序.Heap" />
-        <item itemvalue="应用程序.Demo" />
         <item itemvalue="应用程序.TreeTraversal" />
-        <item itemvalue="应用程序.Test8" />
+        <item itemvalue="应用程序.shellSort" />
+        <item itemvalue="应用程序.heapSort" />
+        <item itemvalue="应用程序.selectSort" />
+        <item itemvalue="应用程序.bubbleSort" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="3c6de123-6d91-40f8-99ac-fa411c98eed4" name="默认的" comment="" />
@@ -194,6 +213,16 @@
       <workItem from="1615778399017" duration="125000" />
       <workItem from="1615964834463" duration="2693000" />
       <workItem from="1615967598873" duration="5323000" />
+      <workItem from="1616075916675" duration="11826000" />
+      <workItem from="1616088260773" duration="475000" />
+      <workItem from="1616090927458" duration="16000" />
+      <workItem from="1616339201793" duration="1563000" />
+      <workItem from="1616496697545" duration="8614000" />
+      <workItem from="1616632358589" duration="838000" />
+      <workItem from="1616633302707" duration="539000" />
+      <workItem from="1616736479486" duration="963000" />
+      <workItem from="1616739023831" duration="16000" />
+      <workItem from="1616751646042" duration="926000" />
     </task>
     <servers />
   </component>

@@ -4,25 +4,6 @@ package Java58.Tree;
 import java.util.LinkedList;
 import java.util.Queue;
 
-//public class TreeNode
-//{
-//    int val;
-//    TreeNode left;  //左子树
-//    TreeNode right; //右子树
-//
-//    public TreeNode(int val)
-//    {
-//        this.val = val;
-//        this.left = null;
-//        this.right = null;
-//    }
-//
-//    @Override
-//    public String toString()
-//    {
-//        return String.format("%c", val);
-//    }
-//}
 public class Demo
 {
     public static void main(String[] args)
