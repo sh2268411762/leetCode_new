@@ -1,29 +1,29 @@
 package sjjg_OJ;
 
 
-//检查两棵树是否相同
-class TreeNode
-{
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode()
-    {
-    }
-
-    TreeNode(int val)
-    {
-        this.val = val;
-    }
-
-    TreeNode(int val, TreeNode left, TreeNode right)
-    {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
-}
+////检查两棵树是否相同
+//class TreeNode
+//{
+//    int val;
+//    TreeNode left;
+//    TreeNode right;
+//
+//    TreeNode()
+//    {
+//    }
+//
+//    TreeNode(int val)
+//    {
+//        this.val = val;
+//    }
+//
+//    TreeNode(int val, TreeNode left, TreeNode right)
+//    {
+//        this.val = val;
+//        this.left = left;
+//        this.right = right;
+//    }
+//}
 
 
 public class Test16

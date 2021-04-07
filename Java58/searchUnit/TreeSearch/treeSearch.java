@@ -1,14 +1,17 @@
 package Java58.searchUnit.TreeSearch;
 
+import org.jetbrains.annotations.NotNull;
+
 /**
  * @author 枳洛淮南
  * @version 1.0
  * @Description 搜索二叉树
+ *              查找中比较次数和高度有关（logn(n) - n) 之间变换
  * @Date 2021/3/31 下午 13:04
  */
 public class treeSearch
 {
-    private Node root;
+    public Node root;
 
     public treeSearch()
     {
@@ -107,7 +110,7 @@ public class treeSearch
         return false;
     }
 
-    private void removeInternal(Node cur, Node parent)
+    private void removeInternal(@NotNull Node cur, Node parent)
     {
         if (cur.left == null && cur.right == null)
         {

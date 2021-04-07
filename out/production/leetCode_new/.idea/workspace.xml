@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="66cfb2e7-f4f2-48d4-a9a6-9addbe7043bc" name="默认变更列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java58/searchUnit/TreeSearch/TreeCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java58/searchUnit/TreeSearch/TreeCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java58/searchUnit/TreeSearch/treeSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java58/searchUnit/TreeSearch/treeSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Java58/sortDemo/mergeSort.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Java58/set/MyTreeSet.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Java58/map/MyTreeMap.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Java58/map/mapTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Java58/searchUnit/TreeSearch/treeSearch.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1qTRe25VNBt4Y6FhwzWNLGieNI9" />
@@ -46,13 +50,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="应用程序.mapDemo">
-    <configuration name="TreeCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.searchUnit.TreeSearch.TreeCase" />
+  <component name="RunManager" selected="应用程序.TreeCase">
+    <configuration name="Test27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sjjg_OJ.Test27" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.searchUnit.TreeSearch.*" />
+          <option name="PATTERN" value="sjjg_OJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="heapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.sortDemo.heapSort" />
+    <configuration name="TreeCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.searchUnit.TreeSearch.TreeCase" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.sortDemo.*" />
+          <option name="PATTERN" value="Java58.searchUnit.TreeSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.sortDemo.mergeSort" />
+    <configuration name="mapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.map.mapTest" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.sortDemo.*" />
+          <option name="PATTERN" value="Java58.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,26 +116,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.mapDemo" />
-        <item itemvalue="应用程序.setDemo" />
         <item itemvalue="应用程序.TreeCase" />
-        <item itemvalue="应用程序.heapSort" />
-        <item itemvalue="应用程序.mergeSort" />
+        <item itemvalue="应用程序.Test27" />
+        <item itemvalue="应用程序.mapDemo" />
+        <item itemvalue="应用程序.mapTest" />
+        <item itemvalue="应用程序.setDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +152,11 @@
       <workItem from="1617163891073" duration="796000" />
       <workItem from="1617164747629" duration="4210000" />
       <workItem from="1617189810745" duration="6427000" />
-      <workItem from="1617350131119" duration="302000" />
+      <workItem from="1617350131119" duration="7974000" />
+      <workItem from="1617379540675" duration="219000" />
+      <workItem from="1617415898682" duration="1622000" />
+      <workItem from="1617730851343" duration="736000" />
+      <workItem from="1617792728552" duration="5165000" />
     </task>
     <servers />
   </component>
