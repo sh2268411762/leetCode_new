@@ -35,12 +35,12 @@ public class reserveDemo {
         while(cur != null)
         {
             ListNode temp = cur.next;
+            cur.next = prev;
             if(temp == null)
             {
                 newHead = cur;
                 break;
             }
-            cur.next = prev;
             prev = cur;
             cur = temp;
         }

@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66cfb2e7-f4f2-48d4-a9a6-9addbe7043bc" name="默认变更列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/AI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/AI.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java58/searchUnit/TreeSearch/TreeCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java58/searchUnit/TreeSearch/TreeCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java58/searchUnit/TreeSearch/treeSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java58/searchUnit/TreeSearch/treeSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode_new.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode_new.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OJ/reserveDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/OJ/reserveDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sjjg_OJ/Test16.java" beforeDir="false" afterPath="$PROJECT_DIR$/sjjg_OJ/Test16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/OJ/reserveDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/OJ/reserveDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +33,16 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Java58/sortDemo/mergeSort.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Java58/set/MyTreeSet.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Java58/map/MyTreeMap.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/sjjg_OJ/Test11.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Java58/map/mapTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/sjjg_OJ/Test30.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/sjjg_OJ/Test33.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/sjjg_OJ/Test34.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Java58/sortDemo/mergeSort.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Java58/HashTable/hashTableDemo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Java58/searchUnit/TreeSearch/treeSearch.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Java58/set/MyTreeSet.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1qTRe25VNBt4Y6FhwzWNLGieNI9" />
   <component name="ProjectLevelVcsManager">
@@ -57,14 +61,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java/JAVADemo" />
   </component>
-  <component name="RunManager" selected="应用程序.Test30">
-    <configuration name="Test27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sjjg_OJ.Test27" />
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.HashTable.Main" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sjjg_OJ.*" />
+          <option name="PATTERN" value="Java58.HashTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.searchUnit.TreeSearch.TreeCase" />
+    <configuration name="Test33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sjjg_OJ.Test33" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.searchUnit.TreeSearch.*" />
+          <option name="PATTERN" value="sjjg_OJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.map.mapDemo" />
+    <configuration name="countChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.HashTable.countChar" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.map.*" />
+          <option name="PATTERN" value="Java58.HashTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,37 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java58.map.mapTest" />
+    <configuration name="hashTableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java58.HashTable.hashTableDemo" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java58.map.*" />
+          <option name="PATTERN" value="Java58.HashTable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.hashTableDemo" />
+        <item itemvalue="应用程序.countChar" />
+        <item itemvalue="应用程序.Test33" />
         <item itemvalue="应用程序.Test30" />
-        <item itemvalue="应用程序.TreeCase" />
-        <item itemvalue="应用程序.Test27" />
-        <item itemvalue="应用程序.mapDemo" />
-        <item itemvalue="应用程序.mapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -165,6 +159,21 @@
       <workItem from="1617415898682" duration="1622000" />
       <workItem from="1617730851343" duration="736000" />
       <workItem from="1617792728552" duration="7307000" />
+      <workItem from="1617878740754" duration="481000" />
+      <workItem from="1618061815173" duration="640000" />
+      <workItem from="1618104647146" duration="32000" />
+      <workItem from="1618104935039" duration="9000" />
+      <workItem from="1618104962981" duration="30000" />
+      <workItem from="1618131543996" duration="31000" />
+      <workItem from="1618132831465" duration="146000" />
+      <workItem from="1618133076021" duration="3759000" />
+      <workItem from="1618191349240" duration="5184000" />
+      <workItem from="1618274272723" duration="2635000" />
+      <workItem from="1618283013375" duration="120000" />
+      <workItem from="1618283158603" duration="1087000" />
+      <workItem from="1618298009858" duration="211000" />
+      <workItem from="1618298371084" duration="3690000" />
+      <workItem from="1618317112285" duration="51000" />
     </task>
     <servers />
   </component>
@@ -182,5 +191,24 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Java58.HashTable.Node" memberName="key" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
