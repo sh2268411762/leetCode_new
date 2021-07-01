@@ -20,23 +20,28 @@ public class Main {
             }
 
             if (0 == temp) {
-                Collections.sort(list, new Comparator<Stu>() {
+                list.sort(new Comparator<Stu>()
+                {
                     @Override
-                    public int compare(Stu o1, Stu o2) {
+                    public int compare(Stu o1, Stu o2)
+                    {
                         return o2.grade - o1.grade;
                     }
                 });
             } else if (1 == temp) {
-                Collections.sort(list, new Comparator<Stu>() {
+                list.sort(new Comparator<Stu>()
+                {
                     @Override
-                    public int compare(Stu o1, Stu o2) {
+                    public int compare(Stu o1, Stu o2)
+                    {
                         return o1.grade - o2.grade;
                     }
                 });
             }
 
-            for (int i = 0; i < list.size(); i++) {
-                System.out.println(list.get(i).name + " " + list.get(i).grade);
+            for (Stu stu : list)
+            {
+                System.out.println(stu.name + " " + stu.grade);
             }
         }
     }
