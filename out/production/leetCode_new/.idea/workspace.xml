@@ -3,75 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="66cfb2e7-f4f2-48d4-a9a6-9addbe7043bc" name="默认变更列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/AI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/AI.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bit_topicEveryday/_01_17/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bit_topicEveryday/_01_17/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bit_topicEveryday/_01_18/Gift.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bit_topicEveryday/_01_18/Gift.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/dictionaries/AI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/dictionaries/AI.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_17/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_17/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_17/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_17/Main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_17/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_17/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_17/Stu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_17/Stu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_18/Gift.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_18/Gift.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_24/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_01_24/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_11_24/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_11_24/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_11_26/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_11_26/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_12_03/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Bit_topicEveryday/_12_03/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Easy/L10_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Easy/L10_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Animal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Animal1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Bird.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Bird1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Bird1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/HashTable/hashTableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/HashTable/hashTableDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Heap/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Heap/Heap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Heap/MyPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Heap/MyPriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/TestDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/TestDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/TestDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/TestDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Tree/TreeTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/Tree/TreeTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book/BookList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book/BookList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/bookMain/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/bookMain/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/AddOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/AddOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/BorrowOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/BorrowOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/DelOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/DelOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/DisOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/DisOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/ExitOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/ExitOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/FindOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/FindOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/ReturnOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_operation/ReturnOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_user/AdminUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_user/AdminUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_user/NormalUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/book_user/NormalUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/map/mapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/map/mapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/searchUnit/TreeSearch/treeSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/searchUnit/TreeSearch/treeSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/ComparebleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/ComparebleDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/EqualsDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/EqualsDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/ListDemo/ArrayListDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/ListDemo/ArrayListDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/ListDemo/CardDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/ListDemo/CardDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/ListDemo/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/sjjg/ListDemo/test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/OutClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/OutClass3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/Test5$InnerClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/Test5$InnerClass2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/Test6$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Java58/string/Test6$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/AddCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/AddCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/DeleteCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/DeleteCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/FindCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/FindCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/LoginWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/LoginWindow$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/LoginWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/LoginWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/MainWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/MainWindow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/UpdateCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/Teac_sys/UpdateCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/_01/Java_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/_01/Java_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/_01/Java_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/_01/Java_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/_02/Java_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/_02/Java_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/_03/Java_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/_03/Java_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/_ShiYan/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/_ShiYan/Bike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/_ShiYan/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/_ShiYan/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode_new/_ShiYan/StringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode_new/_ShiYan/StringDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +33,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Java40/thread_study/lesson7/queueTest.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Java58/searchUnit/TreeSearch/treeSearch.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Java40/thread_study/lesson8/test3.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/sjjg/dlb/Demo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/sjjg_OJ/Test33.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Java58/set/MyTreeSet.java" root0="SKIP_INSPECTION" />
@@ -129,7 +64,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../icollege-xufe/trunk/gdce" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.0" />
@@ -143,9 +78,22 @@
       <recent name="Java40.thread_study.lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.test2">
+  <component name="RunManager" selected="应用程序.test2 (1)">
     <configuration name="未命名" type="Application" factoryName="Application" nameIsGenerated="true">
       <module name="leetCode_new" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java40.JVM.Main" />
+      <module name="leetCode_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java40.JVM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,38 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPoolExecutorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java40.thread_study.lesson7.ThreadPoolExecutorTest" />
+    <configuration name="test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java40.GC.test2" />
       <module name="leetCode_new" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java40.thread_study.lesson7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java40.thread_study.lesson2.state.ThreadState" />
-      <module name="leetCode_new" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java40.thread_study.lesson2.state.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="queueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java40.thread_study.lesson7.queueTest" />
-      <module name="leetCode_new" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java40.thread_study.lesson7.*" />
+          <option name="PATTERN" value="Java40.GC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,34 +137,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java40.thread_study.lesson8.test4" />
+      <module name="leetCode_new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java40.thread_study.lesson8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="应用程序.未命名" />
-      <item itemvalue="应用程序.queueTest" />
-      <item itemvalue="应用程序.ThreadPoolExecutorTest" />
-      <item itemvalue="应用程序.ThreadState" />
       <item itemvalue="应用程序.TestDemo" />
       <item itemvalue="应用程序.test2" />
+      <item itemvalue="应用程序.test4" />
+      <item itemvalue="应用程序.Main" />
+      <item itemvalue="应用程序.test2 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.test2 (1)" />
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="应用程序.test4" />
         <item itemvalue="应用程序.test2" />
         <item itemvalue="应用程序.TestDemo" />
-        <item itemvalue="应用程序.ThreadState" />
-        <item itemvalue="应用程序.ThreadPoolExecutorTest" />
-        <item itemvalue="应用程序.queueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +232,16 @@
       <workItem from="1624713349747" duration="5889000" />
       <workItem from="1624766805288" duration="1781000" />
       <workItem from="1624854276351" duration="6722000" />
-      <workItem from="1625128966598" duration="770000" />
+      <workItem from="1625128966598" duration="1818000" />
+      <workItem from="1625131129045" duration="1257000" />
+      <workItem from="1625537535915" duration="1200000" />
+      <workItem from="1625637997775" duration="113000" />
+      <workItem from="1626602813607" duration="2866000" />
+      <workItem from="1626780014349" duration="2412000" />
+      <workItem from="1626851075792" duration="1658000" />
+      <workItem from="1627001695324" duration="5892000" />
+      <workItem from="1627009211985" duration="609000" />
+      <workItem from="1627358753041" duration="46000" />
     </task>
     <servers />
   </component>
